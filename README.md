@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iamaakashpal (Aakash Shyam Pal).
-- 👀 I’m interested in Python Development.
+- 👀 I’m interested in Data Analyst.
 - 🌱 I’m currently learning Full Stack Data Science from ineuron.ai. 
 - 💞️ I’m looking to collaborate on Python.
 - 📫 How to reach me Through Mail Id :- aakashpal1198@gmail.com
