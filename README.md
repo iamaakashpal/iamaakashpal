@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aakash Shyam Pal</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamaakashpal&label=Profile%20views&color=0e75b6&style=flat" alt="iamaakashpal" /> </p>
 
-<p align="left"> <a href="https://twitter.com/aakashp63081640" target="blank"><img src="https://img.shields.io/twitter/follow/aakashp63081640?logo=twitter&style=for-the-badge" alt="aakashp63081640" /></a> </p>
 
-- 🌱 I’m currently learning **Data Science from iNeuron.ai**
+
+- 🌱 I’m currently learning **Full Stack Data Science from iNeuron.ai**
 
 - 👯 I’m looking to collaborate on **Python**
 
