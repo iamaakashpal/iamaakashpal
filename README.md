@@ -37,12 +37,4 @@
 
 <hr>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamaakashpal&show_icons=true&locale=en&layout=compact" alt="iamaakashpal" /></p>
 
-<hr>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamaakashpal&show_icons=true&locale=en" alt="iamaakashpal" /></p>
-
-<hr>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamaakashpal&" alt="iamaakashpal" /></p>
