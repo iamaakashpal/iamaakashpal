@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Full Stack Data Science from iNeuron.ai**
 
-- 👯 I’m looking to collaborate on **Python**
+- 👯 I’m looking to collaborate on **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/iamaakashpal](https://github.com/iamaakashpal)
 
