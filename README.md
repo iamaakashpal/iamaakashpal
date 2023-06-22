@@ -26,7 +26,7 @@
 <a href="https://www.kaggle.com/aakashpal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/aakashpal" height="30" width="40" /></a>
 <a href="https://medium.com/@aakashpal1198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aakashpal1198" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCYBlRxDjQSFtst6WnjcXsqQ/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucyblrxdjqsftst6wnjcxsqq" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/aakashpal1198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/aakashpal1198" height="30" width="40" /></a>
+
 </p>
 
 <hr>
