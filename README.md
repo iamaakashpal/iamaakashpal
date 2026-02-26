@@ -10,7 +10,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/iamaakashpal](https://github.com/iamaakashpal)
 
-- 📝 I regularly write articles on [https://www.blogger.com/profile/04613025172788748444](https://www.blogger.com/profile/04613025172788748444)
 
 - 📫 How to reach me **aakashshyampal@gmail.com**
 
