@@ -4,9 +4,9 @@
 <hr>
 
 
-- 🌱 I’m currently working as AI Scientist at Fulcrum Digital Private Limited**
+- 🌱 I’m currently working as AI Scientist at Fulcrum Digital Private Limited
 
-- 👯 I’m looking to collaborate on **Machine Learning**
+- 👯 I’m looking to collaborate on **AI Scientist, GenAI and Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/iamaakashpal](https://github.com/iamaakashpal)
 
