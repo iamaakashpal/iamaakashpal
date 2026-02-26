@@ -4,7 +4,7 @@
 <hr>
 
 
-- 🌱 I’m currently learning **Full Stack Data Science from iNeuron.ai**
+- 🌱 I’m currently working as AI Scientist at Fulcrum Digital Private Limited**
 
 - 👯 I’m looking to collaborate on **Machine Learning**
 
@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [https://www.blogger.com/profile/04613025172788748444](https://www.blogger.com/profile/04613025172788748444)
 
-- 📫 How to reach me **aakashpal1198@gmail.com**
+- 📫 How to reach me **aakashshyampal@gmail.com**
 
 - ⚡ Fun fact **Never Give Up**
 
